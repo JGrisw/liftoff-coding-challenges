@@ -9,6 +9,5 @@ function LongestWord(sen) {
         }
       }
     }
-    return highest; 
-  
+    return highest;
   }
